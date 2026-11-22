@@ -129,11 +129,3 @@ footer{max-width:760px;margin:0 auto;padding:24px 20px 48px;color:var(--mut);fon
 </footer>
 </body>
 </html>
-    </section>
-  </main>
-
-  <footer>
-    &copy; 2026 Rhynomod. Todos los derechos reservados.
-  </footer>
-</body>
-</html>
