@@ -1,5 +1,3 @@
-# visballlanes-source.github.io
-<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
@@ -118,9 +116,6 @@ footer{max-width:760px;margin:0 auto;padding:24px 20px 48px;color:var(--mut);fon
 
     <h3>Menores de edad</h3>
     <p>Rhynomod no está dirigido a personas que no cumplan la edad mínima que Discord exige en su país. Si detectamos datos de alguien por debajo de esa edad, los eliminaremos.</p>
-
-    <h3>Cambios y contacto</h3>
-    <p>Si actualizamos esta política, cambiaremos la fecha de arriba. Para cualquier consulta de privacidad escríbenos en <a class="ph" href="https://discord.gg/TU-INVITE">discord.gg/TU-INVITE</a> o a <span class="ph">TU-CORREO@ejemplo.com</span>.</p>
   </section>
 </main>
 
